@@ -1,0 +1,27 @@
+_repo: The-Radio-Girls-at-Forest-Lodge-or-The-Strange-Hut-in-the-Swamp_61592
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Penrose, Margaret
+    gutenberg_agent_id: '1022'
+    url: http://www.gutenberg.org/2009/agents/1022
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Penrose
+description: ''
+gutenberg_issued: '2020-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Radio -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Forest fires -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- GITenberg
+title: The Radio Girls at Forest Lodge; or, The Strange Hut in the Swamp
+url: http://www.gutenberg.org/ebooks/61592
